@@ -7,6 +7,8 @@ function App() {
     <>
       <h1>Git Testing</h1>
       <p>Commit One</p>
+      <p>Testing</p>
+      <p>testing 2</p>
     </>
   )
 }
